@@ -44,6 +44,13 @@ It's contains a custom ```Webhooks``` addon.
 
 ### HOWTO:
 
+In ```app.ini``` add
+
+```
+[webhook]
+TYPES = ... , custom
+```
+
 Choose custom hook
 
 <img src="img/img_05.png" width="320">
