@@ -4,7 +4,7 @@
 
 
 #### Very Important. There is No WaRRanty
-#### It's my first project on ```go``` and can contain error.
+#### It's my first project on ```go``` and can contain errors.
 
 ---
 
